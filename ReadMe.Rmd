@@ -9,4 +9,6 @@ The plots are also stored in the directory as png files.
 
 ### References
 Dataset: [Electric power consumption](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip) from the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+
+
 Accessed: 11 October 2015 
