@@ -3,7 +3,9 @@
 The first project in **Exploratory Data Analysis** requires us to reproduce four plots. The original plots are located in the **figures** folder. 
 
 
-To reproduce one of the plots: run the code from the project directory. The plots are also stored in the directory as png files. 
+To reproduce one of the plots: run the code from the project directory. Each file requires the `Load Data.R` file which gets the data and cleans it. The `filtered data` is then ready to create the subsequent plots.  
+
+The plots are also stored in the directory as png files. 
 
 ### References
 Dataset: [Electric power consumption](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip) from the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
